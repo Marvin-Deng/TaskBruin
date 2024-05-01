@@ -1,4 +1,14 @@
-# BruinTask
+# TaskBruin
+TaskBruin is a web application for UCLA students that serves as a centralized hub where a service is listed in exchange for meal swipes. Possible services that can be uploaded include laundry services, arrangements for carpooling or sharing transportation, and food delivery from dining halls. Users are able to create and delete their own tasks, accept and un-accept tasks that other users have created, and view a list of tasks they have created and accepted.
+
+<img width="1413" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/4d14619c-268c-4d49-ad7d-d3591f261dee">
+
+<img width="1437" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/6bc4ade8-d399-482e-9ae6-1c7a5254c6bd">
+
+<img width="849" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/5aff162c-63be-46b0-be34-ddc69cc84b2e">
+
+<img width="1337" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/9acd386b-8576-4458-857d-9c577255a5d3">
+
 
 ## Setup
 
