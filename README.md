@@ -5,10 +5,9 @@ TaskBruin is a web application for UCLA students that serves as a centralized hu
 
 <img width="1437" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/6bc4ade8-d399-482e-9ae6-1c7a5254c6bd">
 
-<img width="849" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/5aff162c-63be-46b0-be34-ddc69cc84b2e">
-
 <img width="1337" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/9acd386b-8576-4458-857d-9c577255a5d3">
 
+<img width="849" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/5aff162c-63be-46b0-be34-ddc69cc84b2e">
 
 ## Setup
 
