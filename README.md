@@ -3,10 +3,17 @@ TaskBruin is a web application for UCLA students that serves as a centralized hu
 
 <img width="1413" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/4d14619c-268c-4d49-ad7d-d3591f261dee">
 
+## Task Page
+- Filter for tasks based on price, category, or keywords
+- View and accept other people's tasks
 <img width="1437" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/6bc4ade8-d399-482e-9ae6-1c7a5254c6bd">
 
+## Profile Page
+- View tasks you created and accepted
 <img width="1337" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/9acd386b-8576-4458-857d-9c577255a5d3">
 
+## Create Task Page
+- After logging in, users can create public tasks
 <img width="849" alt="image" src="https://github.com/Marvin-Deng/TaskBruin/assets/52214624/5aff162c-63be-46b0-be34-ddc69cc84b2e">
 
 ## Setup
